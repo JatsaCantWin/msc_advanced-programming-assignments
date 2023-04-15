@@ -8,6 +8,17 @@ cmake-build-*/
 out/
 .idea/
 .idea_modules/
+*.iml
+*.ipr
+
+# Compressed folders
+*.zip
+*.rar
+*.7z
+
+# Images
+*.png
+*.jpg
 
 # JIRA plugin
 atlassian-ide-plugin.xml

@@ -4,7 +4,7 @@ This repository contains the assignments for the advanced programming course I a
 
 ## Prerequisites
 
-To run the code in this repository, you will need to have Java installed.
+To run the code in this repository, you will need to have Java and an application server service like Glassfish installed.
 
 ## Contributing
 
